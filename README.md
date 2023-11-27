@@ -4,7 +4,7 @@ I'm an enthusiastic frontend developer from Hong Kong.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Zustand**
+- 🌱 I’m currently learning **Express.js**
 - 💬 Ask me about **JavaScript, TypeScript, and React**
 - 📧 You can shoot me an email at [nickau309@gmail.com](mailto:nickau309@gmail.com)
 
@@ -16,7 +16,7 @@ I'm an enthusiastic frontend developer from Hong Kong.
 - CSS3
 - Tailwind CSS
 - JavaScript, TypeScript
-- React, React Router
+- React, React Router, Zustand
 - Jest, Vitest, React Testing Library
 
 ### 🔧 Tools
