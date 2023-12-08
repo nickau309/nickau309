@@ -4,7 +4,7 @@ I'm an enthusiastic frontend developer from Hong Kong.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **JavaScript, TypeScript, and React**
 - 📧 You can shoot me an email at [nickau309@gmail.com](mailto:nickau309@gmail.com)
 
